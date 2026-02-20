@@ -1,7 +1,4 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "LoveReadiness30DayPlan",
-  {
   "type": "object",
   "additionalProperties": false,
   "required": [
